@@ -1,0 +1,14 @@
+D:\.Net\Class 1\Sandwitch\bin\Debug\net8.0\Sandwitch.exe
+D:\.Net\Class 1\Sandwitch\bin\Debug\net8.0\Sandwitch.deps.json
+D:\.Net\Class 1\Sandwitch\bin\Debug\net8.0\Sandwitch.runtimeconfig.json
+D:\.Net\Class 1\Sandwitch\bin\Debug\net8.0\Sandwitch.dll
+D:\.Net\Class 1\Sandwitch\bin\Debug\net8.0\Sandwitch.pdb
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\Sandwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\Sandwitch.AssemblyInfoInputs.cache
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\Sandwitch.AssemblyInfo.cs
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\Sandwitch.csproj.CoreCompileInputs.cache
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\Sandwitch.dll
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\refint\Sandwitch.dll
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\Sandwitch.pdb
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\Sandwitch.genruntimeconfig.cache
+D:\.Net\Class 1\Sandwitch\obj\Debug\net8.0\ref\Sandwitch.dll
